@@ -1,4 +1,4 @@
-### Hi there 👋
+## 안녕하세요. 저는 유우진입니다!
 
 <!--
 **artwoojin/artwoojin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
